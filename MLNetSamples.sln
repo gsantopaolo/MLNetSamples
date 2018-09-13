@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IrisClassification", "IrisClassification\IrisClassification.csproj", "{63034FCC-CD7E-4364-92AD-5C976B8CB818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeSharing", "BikeSharing\BikeSharing.csproj", "{93EE2D7B-3939-405C-9F01-8F2DB479E99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63034FCC-CD7E-4364-92AD-5C976B8CB818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63034FCC-CD7E-4364-92AD-5C976B8CB818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63034FCC-CD7E-4364-92AD-5C976B8CB818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63034FCC-CD7E-4364-92AD-5C976B8CB818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EE2D7B-3939-405C-9F01-8F2DB479E99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EE2D7B-3939-405C-9F01-8F2DB479E99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EE2D7B-3939-405C-9F01-8F2DB479E99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EE2D7B-3939-405C-9F01-8F2DB479E99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE07E5E0-BAD7-4257-A2F2-8521C2E67532}
+	EndGlobalSection
+EndGlobal
